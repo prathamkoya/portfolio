@@ -1,75 +1,57 @@
 # Pratham Koya 🌟
 
-## Welcome! 👋🎉
+Welcome to my profile! 👋🎉 I'm Pratham Koya, a passionate final-year Computer Science student at Sheridan College, specializing in Mobile Computing 📱 and Machine Learning 🤖. My journey has allowed me to work with organizations like Naryant and Osteoporosis Canada on projects that leverage data science to address healthcare challenges 💡.
 
-I'm Pratham Koya, a final-year Computer Science student 🎓 at Sheridan College, where I specialize in Mobile Computing 📱 and Machine Learning 🤖. My journey in tech has led me to collaborate with organizations like Naryant and Osteoporosis Canada, working on groundbreaking research that leverages data science to tackle healthcare challenges 💡.
+## Education 📚
 
-### 📚 Education
-
-- **Bachelor in Computer Science (Mobile-Computing)**, Sheridan College, Expected Dec 2024 🗓️
+- **Bachelor of Computer Science (Mobile Computing)**, Sheridan College, Expected Dec 2024 🗓️
 - **Advanced Diploma in Computer Engineering Technology**, L.J Polytechnic, GPA: 3.8/4.0 🏅
 
-### 💼 Professional Experience
+## Professional Experience 💼
 
-- **Machine Learning Data Scientist (Co-op)**, Sheridan College + Naryant, Sep 2023 – Present 🧠
-  ## Work
-    - As a Machine Learning Data Scientist Intern at Sheridan's Centre for Applied AI (CAAI), I collaborate
-      with Osteoporosis Canada and Naryant to build data cleaning, data exploration, prediction and feature engineering
-      scripts using Python on the Osteoporosis Patient database to find actionable insights and predictions for Osteoprosis 
-      patients.
-    - This huge dataset/database has patient data which has been collected from the public hospitals in Ontario.
-      As this data is very private and secure we execue our scripts using a data pipeline.
-    - Our Research poster will be presented in _**International Conference on Aging Innovation (ICAIR)**_ in Toronto by director
-      of Osteoporosis Canada.
-  
-  ## Achievements
-    - Improved data processing speed by 300% through parallel processing ⚡.
-    - Set up a secure data pipeline, enhancing efficiency by 40% for over 30,000 patient records 📈.
+### Machine Learning Data Scientist (Co-op), Sheridan College + Naryant, Sep 2023 – Present 🧠
+**Work:**
+- Collaborating with Osteoporosis Canada and Naryant at Sheridan's Centre for Applied AI (CAAI) to develop data cleaning, exploration, prediction, and feature engineering scripts for the Osteoporosis Patient database, aiming for actionable insights.
+- Managed a large dataset from Ontario public hospitals, ensuring data privacy and security through a dedicated data pipeline.
+- Research poster to be presented at the International Conference on Aging Innovation (ICAIR) in Toronto.
 
+**Achievements:**
+- Enhanced data processing speed by 300% with parallel processing ⚡.
+- Established a secure data pipeline, boosting efficiency by 40% for over 30,000 patient records 📈.
 
-- **Machine Learning Researcher (Co-op)**, Sheridan College + Naryant, May 2023 – Sep 2023 🔍
-  ## Work
-    - As a Machine Learning Research Intern at Sheridan's Centre for Applied AI (CAAI) I researched on Osteoprosis 
-      Patient's long term Fracture risk. As a research intern I have built Machine learning models to classify
-      the risk of patients experiencing their Osteoprosis Fracture in long-term. I also helped building a risk-calculator
-      that uses this model's prediction output.
+### Machine Learning Researcher (Co-op), Sheridan College + Naryant, May 2023 – Sep 2023 🔍
+**Work:**
+- Researched long-term fracture risk in Osteoporosis patients, developing ML models to classify risk and a risk-calculator based on model predictions.
 
-  ## Achievement
-    - Enhanced FRAX fracture risk tool's efficiency by 200% using machine learning models 📊.
-    - Achieved a 92% predictive accuracy in osteoporosis research with Random Forest analysis 🌳.
+**Achievements:**
+- Improved the FRAX fracture risk tool's efficiency by 200% using ML models 📊.
+- Achieved 92% predictive accuracy in osteoporosis research with Random Forest analysis 🌳.
 
+### iOS Application Developer Mentor, Career Education Council, Jan 2023 – Jun 2023 📱
+**Work:**
+- Partnered with Apple Canada to mentor high school students in Swift programming and iOS application development, covering the full development lifecycle.
 
-- **iOS Application Developer Mentor**, Career Education Council, Jan 2023 – Jun 2023 📱
-  ## Work
-    - As an IOS application developer Mentor partnered by with Apple Canada. I taught and supported high-school
-      students to learn their first programming language which was "Swift". I helped them getting comfortable with Xcode
-      enviornment to build IOS application. Also, went through the ios application development lifecycle to help students build
-      and present their IOS application.
-  
-  ## Achievement
-    - Mentored over 40 students in Swift programming in collaboration with Apple Canada 🍏.
-    - Led Swift coding mentorship, enhancing student creativity and technical proficiency 🌈.
+**Achievements:**
+- Mentored over 40 students, enhancing their creativity and technical skills 🍏.
+- Led Swift coding mentorship, boosting student technical proficiency 🌈.
 
-### 🚀 Projects
+## Projects 🚀
 
-- **MoneyExcel - A Simple Money Manager**: An Android expense tracker that achieved over 1000 downloads and a consistent 5-star rating on the Play Store 🌟.
-- **FullStack Image Search Engine**: Developed using Node.js and Weavite Vector Database for precise image vector conversion, enhancing user search experience 🔎.
-- **Livebox - Video Calling and Chatting Flutter App**: A Flutter app that supports up to 100 users in a video call, built using Jitsi Meet API 📹.
+- **MoneyExcel - A Simple Money Manager**: Android expense tracker with over 1000 downloads and a 5-star rating on the Play Store 🌟.
+- **FullStack Image Search Engine**: Developed with Node.js and Weavite Vector Database for precise image vector conversion 🔎.
+- **Livebox - Video Calling and Chatting Flutter App**: Supports up to 100 users in a video call, built using Jitsi Meet API 📹.
 
-### 🌱 Professional Interests & Future Goals
+## Professional Interests & Future Goals 🌱
 
-I am a Machine Learning enthusiast who is always eager to learn new skills and apply them to real-world problems. My main areas of interest are Deep Learning, especially designing and optimizing neural network architectures such as DNN, CNN, RNN and transformer models. I also have experience in deploying and scaling Machine Learning models for production environments. My goal is to pursue a career in Machine Learning where I can contribute to cutting-edge research and innovation, and make a positive impact on society.
+As a Machine Learning enthusiast, I'm eager to apply my skills to solve real-world problems. I'm interested in Deep Learning, neural network architectures, and deploying ML models in production environments. Additionally, my passion for Software Engineering complements my ML skills, allowing me to develop comprehensive solutions. I aim to contribute to groundbreaking research and innovations, making a positive societal impact.
 
-I am also passionate about Software Engineering, as I enjoy developing, testing, and maintaining software applications that can solve real-world problems. I have experience in using various programming languages, frameworks, and tools such as C++, Java, Python, C#, Swift, and SQL. I also have knowledge of Firebase platforms, which enable me to build and host web and mobile applications. I am always keen to learn new technologies and best practices in Software Engineering. My interest in Software Engineering complements my Machine Learning skills, as I can build end-to-end solutions that leverage both domains.
+## Community Engagement 📢
 
+I share projects, insights, and experiences on LinkedIn, engaging with the tech community and keeping abreast of the latest in Machine Learning and Mobile Computing.
 
-### 📢 Community Engagement
+## How to Reach Me 📫
 
-I actively share my projects, insights, and experiences on LinkedIn, engaging with the tech community and staying updated with the latest trends in Machine Learning and Mobile Computing 💼.
+- **LinkedIn**: [Visit my LinkedIn](https://www.linkedin.com/in/pratham-koya-a9a6041a6/)
+- **GitHub**: [Check out my GitHub](https://github.com/koyapratham)
 
-### 📫 How to Reach Me
-
-- **LinkedIn**: [https://www.linkedin.com/in/prathamkoya](shttps://www.linkedin.com/in/pratham-koya-a9a6041a6/) 🖇️
-- **GitHub**: [https://github.com/koyapratham](https://github.com/koyapratham) 🌐
-
-Thank you for visiting my GitHub profile! Feel free to connect with me for collaborations or discussions on innovative ideas in the field of Machine Learning and Mobile Computing 🤝.
+Thank you for visiting my profile! Feel free to connect for collaborations or discussions on innovative ideas in Machine Learning and Mobile Computing 🤝.
