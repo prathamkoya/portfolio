@@ -12,18 +12,43 @@ I'm Pratham Koya, a final-year Computer Science student 🎓 at Sheridan College
 ### 💼 Professional Experience
 
 - **Machine Learning Data Scientist (Co-op)**, Sheridan College + Naryant, Sep 2023 – Present 🧠
-  - Improved data processing speed by 300% through parallel processing ⚡.
-  - Set up a secure data pipeline, enhancing efficiency by 40% for over 30,000 patient records 📈.
-  - Collaborated on developing data models for healthcare applications 🏥.
+  ## Work
+    - As a Machine Learning Data Scientist Intern at Sheridan's Centre for Applied AI (CAAI), I collaborate
+      with Osteoporosis Canada and Naryant to build data cleaning, data exploration, prediction and feature engineering
+      scripts using Python on the Osteoporosis Patient database to find actionable insights and predictions for Osteoprosis 
+      patients.
+    - This huge dataset/database has patient data which has been collected from the public hospitals in Ontario.
+      As this data is very private and secure we execue our scripts using a data pipeline.
+    - Our Research poster will be presented in _**International Conference on Aging Innovation (ICAIR)**_ in Toronto by director
+      of Osteoporosis Canada.
+  
+  ## Achievements
+    - Improved data processing speed by 300% through parallel processing ⚡.
+    - Set up a secure data pipeline, enhancing efficiency by 40% for over 30,000 patient records 📈.
+
 
 - **Machine Learning Researcher (Co-op)**, Sheridan College + Naryant, May 2023 – Sep 2023 🔍
-  - Enhanced FRAX fracture risk tool's efficiency by 200% using machine learning models 📊.
-  - Increased early osteoporosis detection rates by 15% 🚀.
-  - Achieved a 92% predictive accuracy in osteoporosis research with Random Forest analysis 🌳.
+  ## Work
+    - As a Machine Learning Research Intern at Sheridan's Centre for Applied AI (CAAI) I researched on Osteoprosis 
+      Patient's long term Fracture risk. As a research intern I have built Machine learning models to classify
+      the risk of patients experiencing their Osteoprosis Fracture in long-term. I also helped building a risk-calculator
+      that uses this model's prediction output.
 
-- **iOS Application Developer**, Career Education Council, Jan 2023 – Jun 2023 📱
-  - Mentored over 40 students in Swift programming in collaboration with Apple Canada 🍏.
-  - Led Swift coding mentorship, enhancing student creativity and technical proficiency 🌈.
+  ## Achievement
+    - Enhanced FRAX fracture risk tool's efficiency by 200% using machine learning models 📊.
+    - Achieved a 92% predictive accuracy in osteoporosis research with Random Forest analysis 🌳.
+
+
+- **iOS Application Developer Mentor**, Career Education Council, Jan 2023 – Jun 2023 📱
+  ## Work
+    - As an IOS application developer Mentor partnered by with Apple Canada. I taught and supported high-school
+      students to learn their first programming language which was "Swift". I helped them getting comfortable with Xcode
+      enviornment to build IOS application. Also, went through the ios application development lifecycle to help students build
+      and present their IOS application.
+  
+  ## Achievement
+    - Mentored over 40 students in Swift programming in collaboration with Apple Canada 🍏.
+    - Led Swift coding mentorship, enhancing student creativity and technical proficiency 🌈.
 
 ### 🚀 Projects
 
@@ -33,7 +58,10 @@ I'm Pratham Koya, a final-year Computer Science student 🎓 at Sheridan College
 
 ### 🌱 Professional Interests & Future Goals
 
-Passionate about advancing my expertise in Machine Learning, with a particular focus on exploring Deep Learning Models such as CNN, RNN, BERT, and understanding Transformer models 🚀. My goal is to make significant contributions to AI and Machine Learning, solving complex challenges and driving innovation 🔧.
+I am a Machine Learning enthusiast who is always eager to learn new skills and apply them to real-world problems. My main areas of interest are Deep Learning, especially designing and optimizing neural network architectures such as DNN, CNN, RNN and transformer models. I also have experience in deploying and scaling Machine Learning models for production environments. My goal is to pursue a career in Machine Learning where I can contribute to cutting-edge research and innovation, and make a positive impact on society.
+
+I am also passionate about Software Engineering, as I enjoy developing, testing, and maintaining software applications that can solve real-world problems. I have experience in using various programming languages, frameworks, and tools such as C++, Java, Python, C#, Swift, and SQL. I also have knowledge of Firebase platforms, which enable me to build and host web and mobile applications. I am always keen to learn new technologies and best practices in Software Engineering. My interest in Software Engineering complements my Machine Learning skills, as I can build end-to-end solutions that leverage both domains.
+
 
 ### 📢 Community Engagement
 
