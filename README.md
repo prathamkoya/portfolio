@@ -69,7 +69,7 @@ I actively share my projects, insights, and experiences on LinkedIn, engaging wi
 
 ### 📫 How to Reach Me
 
-- **LinkedIn**: [https://www.linkedin.com/in/prathamkoya](https://www.linkedin.com/in/prathamkoya) 🖇️
-- **GitHub**: [https://github.com/YourGitHubUsername](https://github.com/koyapratham) *(Replace with your actual GitHub username)* 🌐
+- **LinkedIn**: [https://www.linkedin.com/in/prathamkoya]([https://www.linkedin.com/in/prathamkoya](https://www.linkedin.com/in/pratham-koya-a9a6041a6/)) 🖇️
+- **GitHub**: [https://github.com/koyapratham](https://github.com/koyapratham) 🌐
 
 Thank you for visiting my GitHub profile! Feel free to connect with me for collaborations or discussions on innovative ideas in the field of Machine Learning and Mobile Computing 🤝.
